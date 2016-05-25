@@ -1,4 +1,4 @@
-// http://travis-encrypt.github.io/
+
 branches:
    only: 
   - master
