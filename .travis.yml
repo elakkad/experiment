@@ -1,4 +1,5 @@
 # http://travis-encrypt.github.io/
+# http://lint.travis-ci.org/
 branches:
    only: 
   - master
