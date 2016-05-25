@@ -1,7 +1,7 @@
 # http://travis-encrypt.github.io/
 # http://lint.travis-ci.org/
 language: groovy
-install: gradle deps
+install: gradle check
 jdk:
   - openjdk7
   - oraclejdk7
